@@ -16,7 +16,8 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("This message coms from the main() method");
+        System.out.println("This message comes from the main() method");
+        System.out.println("This message comes from a US-built JAR file");
         tryTDDFirst();
     }
     
